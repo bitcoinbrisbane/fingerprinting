@@ -1,0 +1,2 @@
+# fingerprinting
+NFT &lt;--> Fingerprinting
